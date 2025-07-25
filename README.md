@@ -35,7 +35,3 @@ My journey with https://arena-chapter1-transformer-interp.streamlit.app/[1.1]_Tr
 Edit `Config` in `config.py` to tweak:
 
 * `d_model`, `n_heads`, `d_mlp`, `n_layers`, etc.
-
-## License
-
-MIT
