@@ -7,7 +7,7 @@ My journey with https://arena-chapter1-transformer-interp.streamlit.app/[1.1]_Tr
 1. **Clone & install**
 
    ```bash
-   git clone [https://github.com/Alessio2405/Trasformer-From-Scratch](https://github.com/Alessio2405/LLM-Mechanistic-Interpretability-Scratch)
+   git clone https://github.com/Alessio2405/LLM-Mechanistic-Interpretability-Scratch
    cd transformer-from-scratch
    pip install -r requirements.txt
    ```
